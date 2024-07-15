@@ -8,7 +8,7 @@
 
 ## トロフィー
 <div>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/nrak126/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nrak126">
   </a>
 </div>
