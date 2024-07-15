@@ -1,5 +1,5 @@
 ## nenex
-[![Twitter: だい_](https://img.shields.io/twitter/follow/nenex?style=social)](https://twitter.com/yabe_ait)
+[![Twitter: だい_](https://img.shields.io/twitter/follow/nrak126?style=social)](https://twitter.com/yabe_ait)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrak12&layout=compact&&hide=HTML" />
